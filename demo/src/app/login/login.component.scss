@@ -1,0 +1,199 @@
+// .container {
+
+//   }
+
+
+
+//   .stlsh{
+//     background-color: white ;
+//   }
+//   .img img{
+//     height: 450px;
+//     width: 70%;
+
+
+//   }
+//   .formview{
+//     height: 450px;
+
+//   }
+//   .formview1{
+//     height: 450px;
+//     width: 300px;
+
+//   }
+//   .formgap{
+//     margin-top: 10px;
+//   }
+//   .card{
+//     background-color: aqua;
+//     width: 30%;
+
+//   }
+//   .gridwidth{
+//     width: 100%;
+
+//   }
+.grid {
+  margin: 0px;
+}
+
+
+.header {
+  width: 455px;
+  height: 56px;
+  left: 143px;
+  top: 205px;
+
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 38px;
+ 
+
+  color: #121212;
+}
+
+.img {
+  background-color: #FFBA08;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img img {
+  // width: 100%;
+  height: auto;
+  // height: 500px;
+}
+
+.logo {
+
+  left: 17.69%;
+  right: 53.85%;
+  top: 5.65%;
+  bottom: 56.11%;
+
+  background: #FFFFFF;
+}
+
+
+
+.form-control {
+
+  box-sizing: border-box;
+
+  /* Auto layout */
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 9px 12px;
+  gap: 10px;
+
+  width: 398px;
+  height: 32px;
+
+  background: #FFFFFF;
+  /* Centum/Gray4 */
+
+  border: 1px solid #B8C3C9;
+  border-radius: 3px;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 1;
+  align-self: stretch;
+  flex-grow: 0;
+
+
+
+}
+
+.btn-primary {
+
+  margin-top: 16px;
+
+  width: 398px;
+  height: 46px;
+  left: 143px;
+  top: 493px;
+
+  background: #0073EA;
+  border-radius: 3px;
+
+
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.formgap {
+  margin-top: 10px;
+}
+
+.labeltext {
+
+  width: 52px;
+  height: 17px;
+
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+
+  color: #333333;
+
+
+}
+
+.accountrouter {
+  margin-top: 30px;
+  width: 398px;
+  height: 14px;
+  left: 212.5px;
+  top: 557px;
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #121212;
+
+  span {}
+
+
+}
+
+.accountrouter1 {
+  margin-top: 30px;
+  width: 398px;
+  height: 14px;
+  left: 212.5px;
+  top: 557px;
+  font-family: 'Figtree';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14px;
+  text-align: center;
+  color: #121212;
+
+
+
+}
+
+
+.spacolor {
+  color:
+    #0073EA;
+}
+.centeron{
+  text-align: center;
+}
